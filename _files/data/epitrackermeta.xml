@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<epitracker version="">
+  <prfs url="" cgroupid="" duserid="" contenttypeid="0">
+    <dcomments><![CDATA[]]></dcomments>
+  </prfs>
+  <contents>
+    <content contenttypeid="1" contentid="3_6_2026_BDAAEDACBE_FztooOK" passscore="" sm="1" gm="1" tm="1" dm="0" date="6/3/2026" presentationid="" efxid="Healthcare">
+      <filename><![CDATA[Telco.htm]]></filename>
+      <title><![CDATA[Technical Support Flow: Connectivity Issues]]></title>
+      <prss>
+        <prs type="1" resloc="p77503" bpt="58">
+          <prsname>Healthcare</prsname>
+          <ss>
+            <s s1="K87" s2="3" s3="1" s4="0"><![CDATA[]]></s>
+            <s s1="K81" s2="1" s3="2" s4="0"><![CDATA[Click on the phone icon when a call comes in.]]></s>
+            <s s1="K88" s2="3" s3="3" s4="0"><![CDATA[]]></s>
+            <s s1="K83" s2="1" s3="4" s4="0"><![CDATA[After identifying the reason for the call, click the Customer Profile button.]]></s>
+            <s s1="K90" s2="1" s3="5" s4="0"><![CDATA[In the Interaction Notes, enter “Customer reports slow internet since morning.”]]></s>
+            <s s1="K89" s2="1" s3="6" s4="0"><![CDATA[Press Ctrl+N to Save your initial notes.]]></s>
+            <s s1="K93" s2="3" s3="7" s4="0"><![CDATA[]]></s>
+            <s s1="K95" s2="1" s3="8" s4="0"><![CDATA[In the Interaction Notes, type “Intermittent connection; slow speeds reported.”]]></s>
+            <s s1="K94" s2="1" s3="9" s4="0"><![CDATA[And press Ctrl+N to save the updated Notes.]]></s>
+            <s s1="K97" s2="1" s3="10" s4="0"><![CDATA[Click Create Case.]]></s>
+            <s s1="K101" s2="1" s3="11" s4="0"><![CDATA[From the pop-up window, select Technical Issue.]]></s>
+            <s s1="K98" s2="1" s3="12" s4="0"><![CDATA[Then click Submit.]]></s>
+            <s s1="K102" s2="1" s3="13" s4="0"><![CDATA[Select Connectivity as the issue type.]]></s>
+            <s s1="K96" s2="1" s3="14" s4="0"><![CDATA[And click Confirm.]]></s>
+            <s s1="K105" s2="3" s3="15" s4="0"><![CDATA[]]></s>
+            <s s1="K108" s2="1" s3="16" s4="0"><![CDATA[Confirm the customer’s information. If all details are correct, click Verify.]]></s>
+            <s s1="K104" s2="1" s3="17" s4="0"><![CDATA[Close the pop-up and continue documenting the interaction.]]></s>
+            <s s1="K109" s2="1" s3="18" s4="0"><![CDATA[Type “Verification complete; proceed to troubleshooting.”]]></s>
+            <s s1="K107" s2="1" s3="19" s4="0"><![CDATA[Then press Ctrl+N.]]></s>
+            <s s1="K112" s2="3" s3="20" s4="0"><![CDATA[]]></s>
+            <s s1="K113" s2="1" s3="21" s4="0"><![CDATA[Press Ctrl+R or click Run Diagnostics.]]></s>
+            <s s1="K115" s2="2" s3="22" s4="0"><![CDATA[Running diagnostics on the customer’s modem checks the connection’s health and identifies potential issues.]]></s>
+            <s s1="K116" s2="2" s3="23" s4="0"><![CDATA[After running diagnostics, the system indicates that Signal instability has been detected.]]></s>
+            <s s1="K114" s2="1" s3="24" s4="0"><![CDATA[Proceed to click View Details.]]></s>
+            <s s1="K118" s2="2" s3="25" s4="0"><![CDATA[Explain to the customer that the diagnostics results confirm the modem is experiencing unstable signal, which may affect connection quality.]]></s>
+            <s s1="K120" s2="3" s3="26" s4="0"><![CDATA[]]></s>
+            <s s1="K121" s2="3" s3="27" s4="0"><![CDATA[
+Since the customer may choose either option, select one path first, then return and complete the other. When done, click Continue.]]></s>
+            <s s1="K156" s2="3" s3="28" s4="0"><![CDATA[]]></s>
+            <s s1="K157" s2="1" s3="29" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K158" s2="1" s3="30" s4="0"><![CDATA[Then, click the Refresh Modem button or press Ctrl + F.]]></s>
+            <s s1="K159" s2="2" s3="31" s4="0"><![CDATA[Wait for the system to update the status.]]></s>
+            <s s1="K160" s2="2" s3="32" s4="0"><![CDATA[Once the process is complete, a confirmation message will appear: “Refresh completed successfully.”]]></s>
+            <s s1="K161" s2="1" s3="33" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K162" s2="1" s3="34" s4="0"><![CDATA[Enter “Modem refresh performed; awaiting reconnection or callback.” in the Interaction Notes.]]></s>
+            <s s1="K163" s2="1" s3="35" s4="0"><![CDATA[And press Ctrl+N to save the updated Notes.]]></s>
+            <s s1="K164" s2="3" s3="36" s4="0"><![CDATA[]]></s>
+            <s s1="K165" s2="4" s3="37" s4="0" />
+            <s s1="K167" s2="3" s3="38" s4="0"><![CDATA[]]></s>
+            <s s1="K168" s2="1" s3="39" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K169" s2="1" s3="40" s4="0"><![CDATA[Press Ctrl + F or click the Refresh Modem button to refresh the modem.]]></s>
+            <s s1="K170" s2="2" s3="41" s4="0"><![CDATA[Give it a moment while the system updates the status.]]></s>
+            <s s1="K171" s2="2" s3="42" s4="0"><![CDATA[Once done, you’ll see a message that says, “Refresh completed successfully.”]]></s>
+            <s s1="K172" s2="1" s3="43" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K173" s2="1" s3="44" s4="0"><![CDATA[Then type: “Modem refresh performed; connection stable.”]]></s>
+            <s s1="K174" s2="1" s3="45" s4="0"><![CDATA[And press Ctrl+N to save the updated Notes.]]></s>
+            <s s1="K175" s2="3" s3="46" s4="0"><![CDATA[]]></s>
+            <s s1="K176" s2="4" s3="47" s4="0" />
+            <s s1="K177" s2="1" s3="48" s4="0"><![CDATA[Outage Check: Click the Check Outage button or press Ctrl+O to run the outage check.]]></s>
+            <s s1="K178" s2="2" s3="49" s4="0"><![CDATA[This will perform an outage check using the customer’s location. Review the system result.]]></s>
+            <s s1="K154" s2="1" s3="50" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K180" s2="1" s3="51" s4="0"><![CDATA[Enter “No outage detected.”  in the Interaction Notes.]]></s>
+            <s s1="K182" s2="1" s3="52" s4="0"><![CDATA[Line Quality Recheck: Click the Run Diagnostics button or press Ctrl+R to run the diagnostics again.]]></s>
+            <s s1="K181" s2="2" s3="53" s4="0"><![CDATA[Observe the updated diagnostic results.]]></s>
+            <s s1="K183" s2="1" s3="54" s4="0"><![CDATA[Click the Close (X) button on the pop-up window or press  Ctrl+X.]]></s>
+            <s s1="K186" s2="1" s3="55" s4="0"><![CDATA[Then complete your notes by typing "Persistent minor signal issues.".]]></s>
+            <s s1="K185" s2="1" s3="56" s4="0"><![CDATA[And press Ctrl+N to save the updated Notes.]]></s>
+            <s s1="K188" s2="3" s3="57" s4="0"><![CDATA[]]></s>
+            <s s1="K191" s2="1" s3="58" s4="0"><![CDATA[Click Schedule Technician to begin setting the appointment.]]></s>
+            <s s1="K192" s2="2" s3="59" s4="0"><![CDATA[Choose the preferred date and time slot according to the customer’s availability and the system’s scheduling options.]]></s>
+            <s s1="K193" s2="3" s3="60" s4="0"><![CDATA[]]></s>
+            <s s1="K194" s2="1" s3="61" s4="0"><![CDATA[Select June 5th on the calendar.]]></s>
+            <s s1="K195" s2="2" s3="62" s4="0"><![CDATA[Available time slots will automatically appear below.]]></s>
+            <s s1="K196" s2="3" s3="63" s4="0"><![CDATA[]]></s>
+            <s s1="K197" s2="1" s3="64" s4="0"><![CDATA[Select the 3:00 PM time slot.]]></s>
+            <s s1="K199" s2="1" s3="65" s4="0"><![CDATA[Then click Confirm Appointment to finalize the scheduling.]]></s>
+            <s s1="K211" s2="1" s3="66" s4="0"><![CDATA[A pop-up will appear giving you the option to send an email confirmation to the customer's registered email address. Click Yes.]]></s>
+            <s s1="K205" s2="1" s3="67" s4="0"><![CDATA[Review the summary email and make any necessary edits. Once finished, click Send.]]></s>
+            <s s1="K206" s2="3" s3="68" s4="0"><![CDATA[]]></s>
+            <s s1="K204" s2="1" s3="69" s4="0"><![CDATA[Click OK to close the Appointment window.]]></s>
+            <s s1="K201" s2="1" s3="70" s4="0"><![CDATA[For proper documentation and tracking, enter “Technician scheduled; customer advised. #0123789" in the Notes field. ]]></s>
+            <s s1="K209" s2="1" s3="71" s4="0"><![CDATA[Press Ctrl+N to save your Notes.]]></s>
+            <s s1="K208" s2="3" s3="72" s4="0"><![CDATA[]]></s>
+            <s s1="K213" s2="2" s3="73" s4="0"><![CDATA[Update the notes with the key actions taken during the call.]]></s>
+            <s s1="K216" s2="1" s3="74" s4="0"><![CDATA[Enter “Recapped, summary email sent.”]]></s>
+            <s s1="K215" s2="3" s3="75" s4="0"><![CDATA[]]></s>
+            <s s1="K221" s2="1" s3="76" s4="0"><![CDATA[Click the End call button.]]></s>
+            <s s1="K217" s2="1" s3="77" s4="0"><![CDATA[Press Ctrl+S to save the case.]]></s>
+            <s s1="K218" s2="1" s3="78" s4="0"><![CDATA[Then click OK and be ready for the next call.]]></s>
+            <s s1="K77" s2="5" s3="79" s4="0"><![CDATA[A customer reports slow internet since morning and intermittent disconnections. After greeting the customer and identifying the issue, what should you do next?]]><asm id="K77" qy="1" ct="telco" txt="A customer reports slow internet since morning and intermittent disconnections. After greeting the customer and identifying the issue, what should you do next?" ctxt="Good Job!" wtxt="Not quite. The correct answer is &quot;Open the patient profile and document the issue in interaction notes&quot;"><chs><ch id="1" result="0" txt="Run diagnostics immediately" /><ch id="2" result="1" txt="Open the patient profile and document the issue in interaction notes" /><ch id="3" result="0" txt="Schedule a technician visit" /><ch id="4" result="0" txt="Refresh the modem" /></chs></asm></s>
+          </ss>
+        </prs>
+      </prss>
+    </content>
+  </contents>
+</epitracker>
